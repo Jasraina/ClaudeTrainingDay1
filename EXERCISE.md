@@ -9,9 +9,10 @@ Follow the steps in order. Take your time.
 
    | Model | Price per 1M input tokens | Price per 1M output tokens | When would you use it? |
    | --- | --- | --- | --- |
-   | Haiku | | | |
-   | Sonnet | | | |
-   | Opus | | | |
+   | Fable | $10 | $50 | Next generation intelligence for long-running agents |
+   | Opus | $4 | $20 | Daily driver for agentic coding and enterprise work |
+   | Sonnet | $2 | $10 | High-performance model for coding and agents |
+   | Haiku | $0.50  | $2.50 | Fastest, most cost-efficient model |
 
 4. In Claude Code, type `/model`. See which model you are on. Switch to a different one once.
 5. Ask Claude: "Explain how this app works in 5 bullet points."
